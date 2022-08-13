@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+{
+    "title": "Angustt",
+    "author": "Angus2=best",
+    "url": "AngusTso",
+    "likes": 0,
+    "user": "62f507c69917735a635c6f6f"
+}
